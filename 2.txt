@@ -1,2 +1,1 @@
-we learn abouth the jenkins
-sivanesh Kannan
+we learn abouth the devops basics
